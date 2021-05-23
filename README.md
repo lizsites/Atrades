@@ -25,10 +25,19 @@ After re-filling the agenda, players will bid for turn order. This is done by bi
 
 You can and will place rubles in your own space during this process. You will only places rubles in player spaces where there are active players, exa. only use players spaces 1,2, and 3 if you are playing with three players. If you come to the rightmost player space, and still have remaining rubles to devote, you will continue at the leftmost spot of the bidding track.
 
-Bidding will start with the current turn order that was determined during the preevious rounds agenda phase, until all players but one have refused to raise the current bid.
+Bidding will start with the current turn order that was determined during the preevious rounds agenda phase, until all players but one have refused to raise the current bid. If a player is starting the bid, they will place the first ruple to the right of their player space, e.g. if player 2 was the first player in turn order for bidding, they would start by placing their first ruple on the player 3 space.
 
-Turn order for players is then decided from greatest bid to smallest. For example, if player 2 won at 8 rubles, a player 3 passed after bidding 7 rubles, and the the player 1 did not bid at all, then the turn order would be player 2, 3, then 1.
+Turn order for players is then decided from greatest bid to smallest. For example, if player 2 won at 8 rubles, a player 3 passed after bidding 7 rubles, and the the player 1 did not bid at all, then the turn order would be player 2, 3, then 1. players will place player marker in the turn order track to reflect the new turn order with the player with the winning bid placing their marker in the 1 spot, second highest placing in 2, etc.
 
 In addition, each player takes the rubles that were placed on their designated space during the agenda phase, and use them normally as their own rubles for the remainder of the game for bidding on the bidding track and scoring at the end of the game.
+
+
+# Execution phase
+
+During the Execution phase, players will in turn order select and execute agenda cards. These agenda cards will describe the actions that the player will take. After taking the action, the agenda card will then be discarded.
+
+Each player will take exactly one agenda cards and perform the described action(s) in turn order. 
+
+After everyone has taken an action, there should be one agenda card leftover that will be discarded during the proceeding Agenda phase. 
 
 
