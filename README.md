@@ -42,7 +42,18 @@ The actions of agenda cards may not be equal in the value they provide players, 
 
 After everyone has taken an action, there should be one agenda card leftover that will be discarded during the proceeding Agenda phase. 
 
-### Card Anatomy
+## Card Anatomy
 
 
 <img src="Assets/Print-readies/card-example-1.png" height="175" width="125" />
+
+### Each agenda card will have three sections:
+
+1. Name
+    - if the agenda card is associated with a specific region, that region's name will printed in this section.
+2. Picture
+    - Paired with the name to easily identify the region of focus for a particular card. 
+3. Description
+    - This descibes the actions and *the order of the action(s)* that a player will take if they select this card during execution. 
+
+
