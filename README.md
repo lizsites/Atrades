@@ -3,7 +3,7 @@ Board Game prototyping for a socialism-themed area control game.
 
 Players will assume the roles of influential nobles and elites that ran the enterprises of the Soviet Union. As these Nomenklatura, players will bid for turn order, select actions in the auctioned turn order, and take potentially powerful enterprise actions. At the end of the round, players will earn rubles depending on how much influence they have in each of the eight areas.
 
-The player with the most rubles at the end of the 10th round is deemed the most likely to influence russian politics after the collapse of the USSR, and is therefore the winner.
+The game ends at the end of the round when one player has placed all twenty of their influence markers on the board. At that time, the player with the most rubles behind their player screen is deemed the most likely to influence russian politics after the collapse of the USSR, and is therefore the winner.
 
 
 ## Rules of play
@@ -34,10 +34,14 @@ In addition, each player takes the rubles that were placed on their designated s
 
 # Execution phase
 
-During the Execution phase, players will in turn order select and execute agenda cards. These agenda cards will describe the actions that the player will take. After taking the action, the agenda card will then be discarded.
+During the Execution phase, players will in turn order select and execute agenda cards. These agenda cards will describe the actions that the player will take. After taking the action, the player who took the action will discard the agenda card to a shared a shared discard pile.
 
-Each player will take exactly one agenda cards and perform the described action(s) in turn order. 
+Each player will take exactly one agenda card and perform all of the described action(s) that they have the ability to complete. If a player cannot complete some or all of the described actions, either by not meeting the conditional requirement for part of the card or by running out of influence markers, that player can still take that card but only to execute the actions that they can take. 
+
+The actions of agenda cards may not be equal in the value they provide players, nor is it guaranteed that a desired agenda card will be remaining by the time it comes to your turn. It is up to each player to bid aggressively during agenda phase to get preferential turn order during the execution phase.
 
 After everyone has taken an action, there should be one agenda card leftover that will be discarded during the proceeding Agenda phase. 
 
+### Card Anatomy
 
+![Alt text](Assets/Print-readies/card-example-1.png?raw=true "Title")
