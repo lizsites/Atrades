@@ -1,3 +1,9 @@
+<style>
+    img {
+        margin-left: 30%;
+    }
+</style>
+
 # Nomenklatura
 Board Game prototyping for a socialism-themed area control game.
 
