@@ -79,7 +79,7 @@ In addition, there is a symbol that pictures every western region (Moscow, Centr
 
 > Since no white influence marker is printed on the card, the player who selects this card *will not place any influence in Central Russia.*
 
-<img src="Assets/Print-readies/card-example-4.png" height="175" width="125" style="margin-left: 30%"/>
+<img src="Assets/Print-readies/card-example-4.png" height="175" width="125" margin-left="30%"/>
 
 > In this example, the player who selects this card during the execution phase would place one influence in any of the western regions (Moscow, Southern Russian, Central Russia, Northwestern Russia, and Volga), and then place one influence in the Russian Far East.
 
