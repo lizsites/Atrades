@@ -60,19 +60,22 @@ If a white influence marker is pictured as part of the actions, this indicates t
 
 If an actions describes special placement of influence markers, the player will follow the instructions provided by the card text.
 
-<img src="Assets/Print-readies/card-example-2.png" height="175" width="125" />
+<img src="Assets/Print-readies/card-example-2.png" height="175" width="125" style="margin-left: 30%"/>
 
 > If a player selects this moscow card during the execution phases, they will place one influence in Ural, and place one influence in Moscow.
 > The white influence marker paired with x 1 is representative of a generic action. Most agenda cards will let you place a basic amount in their associated region.
 
 In addition, there is a symbol that pictures every western region (Moscow, Central Russia, Southern Russia, Volga, and Northwestern Russia). If that symbol is on an agenda card, or on the board (in the case of Central Russia) then that means the player will place or remove influence in any of those five regions up to the amount printed on the right.
 
-<img src="Assets/Print-readies/card-example-3.png" height="175" width="125" />
+<img src="Assets/Print-readies/card-example-3.png" height="175" width="125" style="margin-left: 30%"/>
 
 > In the above card example, the player will select two influence in any of the five western regions (Moscow, Central Russia, Southern Russia, Volga, and Northwester Russia). Those two influences will be removed from the board and returned to their players supply.
 
 > Since no white influence marker is printed on the card, the player who selects this card *will not place any influence in Central Russia.*
 
+<img src="Assets/Print-readies/card-example-4.png" height="175" width="125" style="margin-left: 30%"/>
+
+> In this example, the player who selects this card during the execution phase would place one influence in any of the western regions (Moscow, Southern Russian, Central Russia, Northwestern Russia, and Volga), and then place one influence in the Russian Far East.
 
 
 
