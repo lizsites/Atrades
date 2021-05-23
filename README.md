@@ -44,4 +44,5 @@ After everyone has taken an action, there should be one agenda card leftover tha
 
 ### Card Anatomy
 
-![Alt text](Assets/Print-readies/card-example-1.png?raw=true "Title")
+
+<img src="Assets/Print-readies/card-example-1.png" height="175" width="125" />
