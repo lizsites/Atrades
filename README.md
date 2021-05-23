@@ -169,6 +169,11 @@ During this round, every player scores an amount of rubles in each region accord
 
 - If there is a tie for second most influence in a region, all players who are tied receive rubles as if they normally held second most influence in the region - $1.
 
+- If a player gets to either the Russian Far East or Siberia, Each player who scores receives an additional 4 rubles. However, in order to score these areas, a plaayer must be a majority leader in one of the western regions.
+
+
+After scoring, players in turn order may pay 1 ruble to the majority leader of northwestern russia to move one cube to the right along the railroad.
+
 
 # End of Game
 
