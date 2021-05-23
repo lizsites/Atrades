@@ -1,9 +1,3 @@
-<style>
-    img {
-        margin-left: 30%;
-    }
-</style>
-
 # Nomenklatura
 Board Game prototyping for a socialism-themed area control game.
 
@@ -66,23 +60,45 @@ If a white influence marker is pictured as part of the actions, this indicates t
 
 If an actions describes special placement of influence markers, the player will follow the instructions provided by the card text.
 
-<img src="Assets/Print-readies/card-example-2.png" height="175" width="125" style="margin-left: 30%"/>
+<img src="Assets/Print-readies/card-example-2.png" height="175" width="125"/>
 
 > If a player selects this moscow card during the execution phases, they will place one influence in Ural, and place one influence in Moscow.
 > The white influence marker paired with x 1 is representative of a generic action. Most agenda cards will let you place a basic amount in their associated region.
 
+===
+
+<img src="Assets/Symbols/elimination.png" height="125" width="125"/>
 In addition, there is a symbol that pictures every western region (Moscow, Central Russia, Southern Russia, Volga, and Northwestern Russia). If that symbol is on an agenda card, or on the board (in the case of Central Russia) then that means the player will place or remove influence in any of those five regions up to the amount printed on the right.
 
-<img src="Assets/Print-readies/card-example-3.png" height="175" width="125" style="margin-left: 30%"/>
+<img src="Assets/Print-readies/card-example-3.png" height="175" width="125"/>
 
 > In the above card example, the player will select two influence in any of the five western regions (Moscow, Central Russia, Southern Russia, Volga, and Northwester Russia). Those two influences will be removed from the board and returned to their players supply.
 
 > Since no white influence marker is printed on the card, the player who selects this card *will not place any influence in Central Russia.*
 
-<center><img src="Assets/Print-readies/card-example-4.png" height="175" width="125"/></center>
+<img src="Assets/Print-readies/card-example-4.png" height="175" width="125"/>
 
 > In this example, the player who selects this card during the execution phase would place one influence in any of the western regions (Moscow, Southern Russian, Central Russia, Northwestern Russia, and Volga), and then place one influence in the Russian Far East.
 
+
+===
+## The Consolidation Card
+
+<img src="Assets/Print-readies/Consolidation.png" height="210" width="150"/>
+
+The Consolidationg Card is a special type of card. It does not display a region in its name, nor does it picture a particular region on the map. Instead the Consolidation card depcicts a zealous effort to consolidate industries owned by multiple players in one region into one *industrial enterprise* under the direct supervision of one player.
+
+The Consolidation card has four actions, and each action must be able to be completed by the player in order to select the card during the execution phase.
+
+1. If the player is not the last player in turn order, they must pay $3 to the bank.
+> Note: the player must be able to pay $3 to the bank, or they cannot take this card.
+
+2. The player moves the consolidation marker from where it is currently located to an adjacent region. The marker *must be moved* from where it was previously.
+
+3. The player then places one influence in the region.
+> Note: the player must have an influence marker in their supply available for placement in the region where the consolidation marker has been placed, or they cannot take this card.
+
+4. Place the Merger indicator in the region with the marker. This indicates that there will be consolidation of industries in that region during the Consoliation phase.
 
 
 
