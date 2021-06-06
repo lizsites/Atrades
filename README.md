@@ -1,9 +1,9 @@
-# Nomenklatura
-Board Game prototyping for a socialism-themed area control game.
+# Asean 2090, Billionares without Borders
+At the dawn of major technological advancement, major investment firms provide offerings to the world's first precognition robot to have a competitive edge on finance booms in the coming quarter.
 
-Players will assume the roles of influential nobles and elites that ran the enterprises of the Soviet Union. As these Nomenklatura, players will bid for turn order, select actions in the auctioned turn order, and take potentially powerful enterprise actions. At the end of the round, players will earn rubles depending on how much influence they have in each of the eight areas.
+Players will assume the roles of investment banks that speculate on the values of industries in the countries of the ASEAN organization. As these bank, players will bid for turn order, select actions in the auctioned turn order, and take part in lavish mergers. At the end of the round, players will earn credits and resources depending on how much influence they have in each of the nine areas.
 
-The game ends at the end of the round when one player has placed all twenty of their influence markers on the board. At that time, the player with the most rubles behind their player screen is deemed the most likely to influence russian politics after the collapse of the USSR, and is therefore the winner.
+The game ends at the end of the round when one player has placed all twenty of their influence markers on the board. At that time, the player with the most credits behind their player screen is deemed the most likely to influence russian politics after the collapse of the USSR, and is therefore the winner.
 
 
 ## Rules of play
@@ -11,25 +11,15 @@ The game ends at the end of the round when one player has placed all twenty of t
 A round of Nomenklatura is played in four phases:
 1. Agenda Phase
 2. Execution Phase
-3. Consolidation Phase
+3. Merger Phase
 4. Scoring Phase
 
 
 # Agenda Phase
 
-During the Agenda phase, players will receive formal orders from Moscow on how to sculpt the industry Soviet Union. These policies and commands come in the form of action cards that will describe the actions a player will take when selecting it during the Executive phase. Then players will pay each other 
+During the Agenda phase, players will bid for preferential access to the precognition bot. Players will proceed in turn order from the last round, and make one bid. Players may bid any amount, including less than the current highest bid or none at all. All bids are payed to the bank, and players re-arrange the new turn order in order of highest bid to lowest bid. If two players are tied in their bids, then the respective order of the last round is maintained.
 
-Discard any action cards leftover from the previous round. Then re-fill the agenda by flipping over cards from the agenda deck and placing them at the top of the board. The amount of cards that will be flipped over during this round will be equal to the amount of players plus the Consolidation Card. If the deck runs out at any point during re-filling the agenda, the discard pile is shuffled and becomes the new Agenda deck, giving the opportunity for cards played earlier in the game to be played again. **The only exception to refilling the deck is that the Consolidation Card is never shuffled into the deck.** It is always placed in the agenda after the other cards have filled it, so that even that the last player to take an action will two options.
 
-After re-filling the agenda, players will bid for turn order. This is done by bidding an amount of rubles greater than the previous bid and devoting that amount to the bidding track. When you devote rubles to the bidding track, you will start with the player space to the right of the the last ruble placed by the player who bid before you. You will place one ruble in that player space, place another ruble to the right of that player space, and continue to place rubles in this fashion until you have devoted an amount of rubles equal to your declared bid. 
-
-You can and will place rubles in your own space during this process. You will only places rubles in player spaces where there are active players, exa. only use players spaces 1,2, and 3 if you are playing with three players. If you come to the rightmost player space, and still have remaining rubles to devote, you will continue at the leftmost spot of the bidding track.
-
-Bidding will start with the current turn order that was determined during the preevious rounds agenda phase, until all players but one have refused to raise the current bid. If a player is starting the bid, they will place the first ruple to the right of their player space, e.g. if player 2 was the first player in turn order for bidding, they would start by placing their first ruple on the player 3 space.
-
-Turn order for players is then decided from greatest bid to smallest. For example, if player 2 won at 8 rubles, a player 3 passed after bidding 7 rubles, and the the player 1 did not bid at all, then the turn order would be player 2, 3, then 1. players will place player marker in the turn order track to reflect the new turn order with the player with the winning bid placing their marker in the 1 spot, second highest placing in 2, etc.
-
-In addition, each player takes the rubles that were placed on their designated space during the agenda phase, and use them normally as their own rubles for the remainder of the game for bidding on the bidding track and scoring at the end of the game.
 
 
 # Execution phase
@@ -40,7 +30,7 @@ Each player will take exactly one agenda card and perform all of the described a
 
 The actions of agenda cards may not be equal in the value they provide players, nor is it guaranteed that a desired agenda card will be remaining by the time it comes to your turn. It is up to each player to bid aggressively during agenda phase to get preferential turn order during the execution phase.
 
-## Card Anatomy
+## Card Anatomy OUT-DATED 
 
 
 <img src="Assets/Print-readies/card-example-1.png" height="175" width="125" />
@@ -80,106 +70,97 @@ In addition, there is a symbol that pictures every western region (Moscow, Centr
 
 
 
-## The Consolidation Card
+## The Merger Card
 
-<img src="Assets/Print-readies/Consolidation.png" height="210" width="150"/>
+<img src="Assets/Print-readies/Merger.png" height="210" width="150"/>
 
-The Consolidationg Card is a special type of card. It does not display a region in its name, nor does it picture a particular region on the map. Instead the Consolidation card depcicts a zealous effort to consolidate industries owned by multiple players in one region into one *industrial enterprise* under the direct supervision of one player.
+The Merger Card is a special type of card. It does not display a region in its name, nor does it picture a particular region on the map. Instead the Merger card depicts a zealous effort to consolidate industries owned by multiple players in one region into one *industrial enterprise* under the direct supervision of one player.
 
-The Consolidation card has four actions, and each action must be able to be completed by the player in order to select the card during the execution phase.
+The Merger card has four actions, and each action must be able to be completed by the player in order to select the card during the execution phase.
 
 1. If the player is not the last player in turn order, they must pay $3 to the bank.
 > Note: the player must be able to pay $3 to the bank, or they cannot take this card.
 
-2. The player moves the consolidation marker from where it is currently located to an adjacent region. The marker *must be moved* from where it was previously.
+2. The player moves the Merger marker from where it is currently located to an another country. The marker *must be moved* from where it was previously.
 
 3. The player then places one influence in the region.
-> Note: the player must have an influence marker in their supply available for placement in the region where the consolidation marker has been placed, or they cannot take this card.
+> Note: the player must have an influence marker in their supply available for placement in the region where the Merger marker has been placed, or they cannot take this card.
 
-4. Place the Merger indicator in the region with the marker. This indicates that there will be consolidation of industries in that region during the Consoliation phase.
-
-5. Every player with at least one influence marker in an adjacent region may choose to move one influence marker from the adjacent region to the region with the consolidation marker. This selection is done in turn order.
+4. Every player with at least one influence marker in an adjacent region may choose to move one influence marker from the adjacent region to the region with the Merger marker. This selection is done in turn order.
 
 
 ## End of an Execution Phase
 
-After everyone has taken an agenda card and performed its actions, there should be one agenda card leftover. If the card is a regular agenda card with a region associated with it, it is discarded normally at the beginning of the next agenda phase. If it is the Consolidation Card, it will remain in the agenda area.
+After everyone has taken an agenda card and performed its actions, there should be one agenda card leftover. If the card is a regular agenda card with a region associated with it, it is discarded normally at the beginning of the next agenda phase. If it is the Merger Card, it will remain in the agenda area.
 
 
-# Consolidation Phase
+# Merger Phase
 
-### The Consolidation phase only occurs if the Consolidation Card was chosen.
+### The Merger phase only occurs if the Merger Card was chosen.
 
-When the Consolidation card is played in the Enterprise Phase, it marks the region with the marker as the site of a large scale effort to merge multiple industries (the different influence markers of players in the region) into one enterprise held by one player.
+When the Merger card is played in the Enterprise Phase, it marks the region with the marker as the site of a large scale effort to merge multiple industries (the different influence markers of players in the region) into one enterprise held by one player.
 
-A Consolidation occurs if two conditions are met:
-1. The Consolidation Card has to have been played in the execution phase of the same round.
+A Merger occurs if two conditions are met:
+1. The Merger Card has to have been played in the execution phase of the same round.
 2. The zone must have influence markers of any number from at least two different players. 
 
-In other words, the Consolidation Card must have been played, **AND** there must be at least two different players' influence markers present after all actions during the execution phase have been taken. The second condition can be broken by other players removing influence from the region with the Consolidation Marker.
+In other words, the Merger Card must have been played, **AND** there must be at least two different players' influence markers present after all actions during the execution phase have been taken. The second condition can be broken by other players removing influence from the region with the Merger Marker.
 
-## Glorious Redistribution
+## Redistribution
 
-When a region is marked for consolidation, players will follow these steps:
+When a region is marked for Merger, players will follow these steps:
 
-### 1. Players with influence in those regions will take all influence up from the region except for one. 
+### 1. The Player in turn order creates the merger track
 
-the remaining markers will serve as a reminder of who will be paid out at the end of the consolidation. The rest will temporarily go in the players' hands separate from their supply.
+The current first player in turn order will collect all markers from the different players, and place each individual marker in one space of the merger track in any order. There is no limit to the amount of influence that can be placed in a region and on the merger track. If the first player runs out of spots to put influence on the merger track, they can simply place them to this side of the board in a continuing line.
 
-### 2. In turn order, players will bid to win the consolidation.
+### 2. In turn order, players will bid to win the Merger.
 
-Bidding will be similar to how players bid for turn order. Bidding will begin with the player marked as the first player, then followed by the second player, etc.
+Bidding will begin with the first player in turn order, then followed by the second player, etc.
 
-Players will declare an amount of rubles that they are willing to bid, and will place those rubles in the same pattern as the turn order bid, placing to the right of the last ruble placed by the player who bid immediately before. If the ruble placement of the bid makes it to the rightmost spot of the bidding track, the next ruble will be placed at the leftmost spot.
+Players will declare an amount of credits that they are willing to bid. Bidding will continue in turn order until all but one player has passed. When placing a bid, a player must declare a bid higher than the previous bid in order to remain in the auction. Players who pass earlier in the auction cannot re-enter.
 
-### There are two major differences between the Consolidation Bid and Turn Order Bid.
+A player cannot bid more than they have, as we will see during *Payout.*
 
-- Rubles are not placed in every player space that designates a player in the game. Instead, Rubles are placed in the next player space *that has an influence marker in the region (left from step 1 of the Consolidation).* This means that if a player is not in the region selected for Consolidation, *they will not have rubles placed on their player space.* If a player were next in the bidding track for the placement of rubles, but was not in the region, there space would simply be skipped. The next placement of the rubles for devoting to the auction would go to the next right space of a player who *is* in the region.
+### Payout
 
-- Players with influence markers that they took from the region selected from Consolidation may use those markers to substitute for rubles while placing payments on the bidding track. Each influence marker is worth one ruble for the sake of placing rubles equal to your decalred bid. This means that if you declared a bid of $8 and had 5 influences markers picked up from the region marked for Consolidation, you would be able to place these five markers in place of rubles and only pay out $3 of your $8. The use of influence markers in this way is temporary, and does not give any resources to other players when rubles are picked up from the track at the end of the bid.
+When a player has won the bid, that player distributes credits along the merger track by placing one credit on the first space, then the second, third, etc. Once the the winning player has placed a credit on the rightmost space marked by an influence marker, the player resumes the payout by starting over on space 1 of the merger track, then space 2, space 3, etc. This continues until the winning player has paid out credits equal to their bid. 
 
-Once a player passes, they cannot re-enter the bid.
+All players then take credits that were placed in spaces of influence markers that they own, including the winning player. After that influence markers of opposing players who did not win the bid are "converted" to influence markers controlled by the player who won the merger auction, and are placed back on the board. The total amount of influence markers placed by the winning player will almost always be equal to the total amount of influence markers that were in the country at the beginning of the merger phase.
 
-If all other players have passed, the player with the highest bid is designated the winner of the auction.
-
-
-### 3. Once all players have passed, wealth is redistributed
-
-All players take only the rubles that were placed on their player space during the Consolidation phase. Then influence markers that were placed on the track in place of rubles from all players and the rubles that may remain in the winning player's hand after picking them up at the beginning of the round are added together. The added number is the amount of influence markers of the winning player that will be placed back into the consolidated region.
-
-All other influence markers that were picked up during the consolidation phase, ie all influence markers that were picked up by other players but not placed on the bidding track), and the remaining influence of players other than the player who won the bid arae returned to their respective owner's supply.
+The one exception is the 'Contingencies in Place' event card  which negates conversion of a losing player's influence markers after a merger.
 
 
-The Consolidation phase ends after all described actions have been taken.
+The Merger phase ends after all described actions have been taken.
 
 
-# The Scoring Phase
+# Production Phase
 
-The Scoring Phase is the last phase of every round.
+The Production Phase is the last phase of every round.
 
-During this round, every player scores an amount of rubles in each region according to these rules:
+During this round, every player scores an amount of credits in each region according to these rules:
 
-- The player with the most amount of influence in a region receives one ruble for every influence marker in that region. This includes influence markers of other players.
+- The player with the most amount of influence in a region receives one credit for every influence marker in that region. This includes influence markers of other players.
 
-- The player with the second most influence markers a region receives one ruble for every influence marker they own in that region.
+- The player with the second most influence markers a region receives one credit for every influence marker they own in that region.
 
-- If a player is the only player in a region, often as the result of a consolidation, they receive two rubles for every marker they have in that region.
+- If a player is the only player in a region, often as the result of a Merger, they receive two credits for every marker they have in that region.
 
-- If there is a tie for player with the most amount of influence in a region, all players who are tied receive rubles as if they held the second most influence in the region.
+- If there is a tie for player with the most amount of influence in a region, all players who are tied receive credits as if they held the second most influence in the region.
 
-- If there is a tie for second most influence in a region, all players who are tied receive rubles as if they normally held second most influence in the region - $1.
+- If there is a tie for second most influence in a region, all players who are tied receive credits as if they normally held second most influence in the region - $1.
 
-- If a player gets to either the Russian Far East or Siberia, Each player who scores receives an additional 4 rubles. However, in order to score these areas, a plaayer must be a majority leader in one of the western regions.
+- If a player gets to either the Russian Far East or Siberia, Each player who scores receives an additional 4 credits. However, in order to score these areas, a plaayer must be a majority leader in one of the western regions.
 
 
-After scoring, players in turn order may pay 1 ruble to the majority leader of northwestern russia to move one cube to the right along the railroad.
+After scoring, players in turn order may pay 1 credit to the majority leader of the phillipines to move one cube to the right along the railroad.
 
 
 # End of Game
 
-The End of Game is triggered when one player has placed all twenty of their influence on the board. Scoring occurs one more time (effectively double scoring the last round of the game).
+The End of Game is triggered when one player has placed all fifteen of their influence on the board. Scoring occurs one more time (effectively double scoring the last round of the game).
 
-Players then reveal their rubles they earned throughout the game, and the player with the most wins.
+Players then reveal their credits they earned throughout the game, and the player with the most wins.
 
 If there is a tie, the player who has the most influence remaining in their supply wins instead.
 
