@@ -72,7 +72,7 @@ In addition, there is a symbol that pictures every western region (Moscow, Centr
 
 ## The Merger Card
 
-<img src="Assets/Print-readies/Merger.png" height="210" width="150"/>
+<img src="https://s3.amazonaws.com/files.component.studio/58AA7E04-C6F3-11EB-B6D7-AFE7EC501B44/Merger_Card_face_1_.png" height="210" width="150"/>
 
 The Merger Card is a special type of card. It does not display a region in its name, nor does it picture a particular region on the map. Instead the Merger card depicts a zealous effort to consolidate industries owned by multiple players in one region into one *industrial enterprise* under the direct supervision of one player.
 
@@ -122,7 +122,7 @@ Players will declare an amount of credits that they are willing to bid. Bidding 
 
 A player cannot bid more than they have, as we will see during *Payout.*
 
-### Payout
+### 3. Payout
 
 When a player has won the bid, that player distributes credits along the merger track by placing one credit on the first space, then the second, third, etc. Once the the winning player has placed a credit on the rightmost space marked by an influence marker, the player resumes the payout by starting over on space 1 of the merger track, then space 2, space 3, etc. This continues until the winning player has paid out credits equal to their bid. 
 
@@ -135,6 +135,8 @@ The Merger phase ends after all described actions have been taken.
 
 
 # Production Phase
+
+## Scoring
 
 The Production Phase is the last phase of every round.
 
@@ -153,7 +155,11 @@ During this round, every player scores an amount of credits in each region accor
 - If a player gets to either the Russian Far East or Siberia, Each player who scores receives an additional 4 credits. However, in order to score these areas, a plaayer must be a majority leader in one of the western regions.
 
 
-After scoring, players in turn order may pay 1 credit to the majority leader of the phillipines to move one cube to the right along the railroad.
+## Production and Migration
+
+After scoring, players in turn order may pay 1 credit to the majority leader of the phillipines to move one influence in the direction of one of the migration markers.
+
+In addition, players 
 
 
 # End of Game
