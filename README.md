@@ -33,7 +33,7 @@ The actions of agenda cards may not be equal in the value they provide players, 
 ## Card Anatomy OUT-DATED 
 
 
-<img src="Assets/Print-readies/card-example-1.png" height="175" width="125" />
+<img src="https://s3.amazonaws.com/files.component.studio/59F02976-C6F3-11EB-B6D7-AFE7EC501B44/Singapore_Standard_face_1_.png" height="175" width="125" />
 
 ### Each agenda card will have three sections:
 
@@ -152,23 +152,47 @@ During this round, every player scores an amount of credits in each region accor
 
 - If there is a tie for second most influence in a region, all players who are tied receive credits as if they normally held second most influence in the region - $1.
 
-- If a player gets to either the Russian Far East or Siberia, Each player who scores receives an additional 4 credits. However, in order to score these areas, a plaayer must be a majority leader in one of the western regions.
-
-
 ## Production and Migration
 
 After scoring, players in turn order may pay 1 credit to the majority leader of the phillipines to move one influence in the direction of one of the migration markers.
 
-In addition, players 
+In addition, players who are controllers receive the first place production bonus of a country marked in the first space under each country. Then the second player receives the second place.
+
+- If multiples players are tied for first place, they each receive the second bonus.
+
+- If multiple players are tired for second place, they receive nothing.
+
+Players who control countries whose production is marked by an arrow can use this time to also produce secondary products. These are higher level products that *could* be worth money at the very end of the game. A player may make one process of primary goods into secondary goods at each country during this phase, and cannot use primary products made in the same phase.
+
+
+## Advanced Concepts
+
+### Binding Contracts
+
+At any point during a round players may make deals with each other. These deals are virtually limitless so long as they are in the scope of the game, and can describe anything pertaining to what players are legally allowed to do. 
+
+In other words, players can make binding contracts whereby one player gives resources, credits, or "portions" parts or whole turns during the agenda, execution, or merger phase to another player in exchange for an equivocal amount of resources, credits, or future turns. A player can let another player perform one action of an event, all actions of their chosen event, let the player place their own influence markers as part of an event cards placements, target influence for removal instead of the active player, etc. These deals can also span multiple turns depending on the specificities of deals between players, and cannot be broken.
+
+If a player makes a deal they can not keep, they immediately give 10 credits to the player whose contract they are breaking.
 
 
 # End of Game
 
-The End of Game is triggered when one player has placed all fifteen of their influence on the board. Scoring occurs one more time (effectively double scoring the last round of the game).
+The End of Game is triggered when one player has placed all fifteen of their influence on the board. 
 
-Players then reveal their credits they earned throughout the game, and the player with the most wins.
+Players reveal their credits they earned throughout the game.
+
+Then players receive end game credits according to their majority stakehold on each of the seven goods that could be produced throughout the game.
+
+Players with the most amount of goods of a certain type will receive the end game bonus for that resource. Players in second place will receive the second place bonus.
+
+- If there is a tie for first place, the first and second place bonuses are added together and divided by the amount of players who tied for first place, rounding down.
+
+- If there is a tie for second place, the players tied for second will divide the second place bonus for that resource evenly, rounding down.
+
+Production bonuses are added to the credits of plaayers, and after adding everything up, the player with the most credits win!
 
 If there is a tie, the player who has the most influence remaining in their supply wins instead.
 
-If there is still a tie, then all players who tied share a delight in their equal potential to influence Russia to their whim in the aftermaths of the Cold War.
+If there is still a tie, then all players who tied share a delight in their equal potential to influence the South Eastern Asian financial sector to their whim in the coming years.
 
