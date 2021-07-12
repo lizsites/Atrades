@@ -54,19 +54,19 @@ Each region will have some or all of these characteristics:
 
 Company tiles are the pieces that will be placed on regions as companies begin and grow across Atrades. There are four types of comapnies in Atrades:
 
-<img src="print-readies/rations-company.png" width="50%">
+<img src="print-readies/rations-company.png" width="225">
 
 **Rations** x 20
 
-<img src="print-readies/hydration-company.png" width="50%">
+<img src="print-readies/hydration-company.png" width="225">
 
 **Liquids** x 19
 
-<img src="print-readies/wiring.png" width="50%">
+<img src="print-readies/wiring.png" width="225">
 
 **Wiring** x 20
 
-<img src="print-readies/spice-company.png" width="50%">
+<img src="print-readies/spice-company.png" width="225">
 
 **Spice** x 19
 
