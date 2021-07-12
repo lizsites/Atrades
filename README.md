@@ -54,21 +54,10 @@ Each region will have some or all of these characteristics:
 
 Company tiles are the pieces that will be placed on regions as companies begin and grow across Atrades. There are four types of comapnies in Atrades:
 
-<img src="print-readies/rations-company.png" width="225">
+| <img id="company-1" src="print-readies/rations-company.png" width="100"> | <img src="print-readies/hydration-company.png" width="100">| <img src="print-readies/wiring.png" width="100"> | <img src="print-readies/spice-company.png" width="100">
+| --- | --- | --- | --- |
+| **Rations** x 20 | **Liquids** x 19 | **Wiring** x 20 | **Spice** x 19 |
 
-**Rations** x 20
-
-<img src="print-readies/hydration-company.png" width="225">
-
-**Liquids** x 19
-
-<img src="print-readies/wiring.png" width="225">
-
-**Wiring** x 20
-
-<img src="print-readies/spice-company.png" width="225">
-
-**Spice** x 19
 
 #### Starting Company tiles
 
@@ -82,7 +71,7 @@ There are starting company tiles for each company type. Starting companies are d
 
 ### Company Banks and Money
 
-<img src="print-readies/company-bank-example-5.png">
+<img src="print-readies/company-bank-example-5.png" width = "175">
 
 Whenever a player starts a company, they will also take the company bank matching the initiative of the starting company tile from the supply.
 
