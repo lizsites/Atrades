@@ -77,12 +77,15 @@ Starting company tiles are the tiles that players will initially place when star
 There are starting company tiles for each company type. Starting companies are differentiated from regular company tiles by having a number next to the company type symbol. This is the iniative of that company that will be added to a Player's iniative total at the beginning of every round. 
 
 <p float="left" >
-<label for="company-1">**Rations** : 1 - 5 initiative</label>
-<img id="company-1" src="print-readies/food-starting-company-example.png" width="225">
-<img src="print-readies/water-starting-company-example.png" width="225">
-<img src="print-readies/wiring-starting-company-example.png" width="225">
-<img src="print-readies/spice-starting-company-example.png" width="225">
+
+<img id="company-1" src="print-readies/food-starting-company-example.png" width="100">
+<img src="print-readies/water-starting-company-example.png" width="100">
+<img src="print-readies/wiring-starting-company-example.png" width="100">
+<img src="print-readies/spice-starting-company-example.png" width="100">
+
 </p>
+
+<label for="company-1">**Rations** : 1 - 5 initiative</label>
 **Liquids** : 6 - 9 initiative
 **Wiring** : 10 - 14 iniative
 **Spice** : 15 - 18 iniative
