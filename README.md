@@ -85,10 +85,7 @@ There are starting company tiles for each company type. Starting companies are d
 
 </p>
 
-<label for="company-1">**Rations** : 1 - 5 initiative</label>
-**Liquids** : 6 - 9 initiative
-**Wiring** : 10 - 14 iniative
-**Spice** : 15 - 18 iniative
+<span width="100">**Rations** : 1 - 5 initiative</span><span width="100">**Liquids** : 6 - 9 initiative</span><span width="100">**Wiring** : 10 - 14 iniative</span><span width="100">**Spice** : 15 - 18 iniative</span>
 
 
 ### Company Banks and Money
