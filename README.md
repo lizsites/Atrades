@@ -11,7 +11,7 @@ Before diving into the rules, it would be best to briefly describe the component
 
 ### Guild board and Action Cubes
 
-<img src="print-readies/Guild-board-example-1.png" height="430" width="490"/>
+<img src="print-readies/Guild-board-example-1.png" />
 
 At the start of the game, players will pick one of the five different space guilds. 
 These space guilds will display:
@@ -94,7 +94,7 @@ There are starting company tiles for each company type. Starting companies are d
 
 ### Company Banks and Money
 
-<img src="print-readies/company-bank-example-4.png">
+<img src="print-readies/company-bank-example-5.png">
 
 Whenever a player starts a company, they will also take the company bank matching the initiative of the starting company tile from the supply.
 
