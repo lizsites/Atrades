@@ -11,7 +11,7 @@ Before diving into the rules, it would be best to briefly describe the component
 
 ### Guild board and Action Cubes
 
-<img src="print-readies/map-example-1.png" height="430" width="490"/>
+<img src="print-readies/Guild-board-example-1.png" height="430" width="490"/>
 
 At the start of the game, players will pick one of the five different space guilds. 
 These space guilds will display:
@@ -54,19 +54,19 @@ Each region will have some or all of these characteristics:
 
 Company tiles are the pieces that will be placed on regions as companies begin and grow across Atrades. There are four types of comapnies in Atrades:
 
-<img src="print-readies/rations-company.png">
+<img src="print-readies/rations-company.png" width="50%">
 
 **Rations** x 20
 
-<img src="print-readies/hydration-company.png">
+<img src="print-readies/hydration-company.png" width="50%">
 
 **Liquids** x 19
 
-<img src="print-readies/wiring.png">
+<img src="print-readies/wiring.png" width="50%">
 
 **Wiring** x 20
 
-<img src="print-readies/spice-company.png">
+<img src="print-readies/spice-company.png" width="50%">
 
 **Spice** x 19
 
@@ -94,7 +94,7 @@ There are starting company tiles for each company type. Starting companies are d
 
 ### Company Banks and Money
 
-<img src=print-readies/company-bank-example-4.png">
+<img src="print-readies/company-bank-example-4.png">
 
 Whenever a player starts a company, they will also take the company bank matching the initiative of the starting company tile from the supply.
 
