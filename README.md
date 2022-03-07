@@ -163,6 +163,7 @@ In order to do so, a player has to identify a company that they own that is dire
 When they take that action, they must place an action cube from their supply on the bureacracy track. Then a merger begins whereby a player exchanges as much money as they can from their target company's card for a set amount of victory points detailed on this chart.
 
 | **Accumulation Disperson** | **Atrades Govt. Payout** |
+| --- | --- |
 | 25 | 11 |
 | 25 | 9 |
 | 15 | 7 |
