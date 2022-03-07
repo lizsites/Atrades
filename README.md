@@ -21,7 +21,7 @@ These space guilds will display:
 - c. your starting money,
 - d. the three actions tracks that you will fill as you take actions. 
 
-Action Cubes represent the amount of actions you can take in a game. All players will start at 7 actions (and therefore the game will last around 7 turns). On your turn when you take one of the three primary actions, you will also place one of your cubes on the track associated with that action.
+Action Cubes represent the amount of actions you can take in a game. All players will start at 7 action cubes and 1 golden action cube (and therefore the game will last around 7~8 turns). On your turn when you take one of the three primary actions, you will also place one of your cubes on the track associated with that action.
 
 The game ends at the end of a round where a player runs out of action cubes, or when there are no more companies left to acquire.
 
@@ -204,7 +204,12 @@ If a company has sold all goods it could sell, ie it has sold an amount of goods
 
 # End of Round
 
-At the end of every round, the remaining starting company tiles are checked to see if the next round will
+At the end of every round, the remaining starting company tiles are checked to see if the next round will start a new era. If there are no companies available, or only one type of company is available, a new era will start where companies associated with the new era are added to the company supply.
+
+Then a new tile is drawn out, and placed such that it would spaces adjacent to the amount of spaces already on the board.
+
+It is also during this round that players have the option to take a free action from their golden action cube. These actions are taken in turn order.
 
 # End of Game
 
+The game ends at the end of the round when the conditions would be met for a fourth era to start.
